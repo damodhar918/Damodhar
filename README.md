@@ -3,7 +3,7 @@
 - 🌱 I’m currently working in Financial Sector 
 - 💞️ I’m open to learn new technology and grow
 - 📫 You can reach out to me on [LinkedIn](https://www.linkedin.com/in/damodhar918) or Email - damodhar918@outlook.com
-- 🔘 You can check my credentials and learnig progress on following links
+- 🔘 You can check my credentials and learnig
   - [Codecademy](https://www.codecademy.com/profiles/damodhar918)
   - [LinkedIn](https://www.linkedin.com/in/damodhar918)
   -  [Credly](https://www.credly.com/users/damodhar-jangam.7b2d1e73/badges)
