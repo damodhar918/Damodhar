@@ -2,6 +2,12 @@
 
 I'm a passionate data engineer from India! Here are some things about me:
 
+## Index Details
+- [Skills](##skills)
+- [Certifications and Credentials](##certifications-and-credentials)
+- [Projects](##projects)
+- [Contact Information](##contact-information)
+  
 ## 🛠️ My Skills
 - Programming Languages: Python, Java, R, SQL 🎓
 - Big Data Technologies: Spark, PySpark, Scala, Datalake, Teradata, Hive, DB, etc. 🚀 
@@ -15,12 +21,12 @@ I'm a passionate data engineer from India! Here are some things about me:
 
 ## 🌱 Certifications and Credentials
 - 📝 Check out my [DataCamp Portfolio](https://www.datacamp.com/portfolio/jdamodhar) for some of my data science and analytics projects
-- 🔘 Check out my credentials and learning journey:
-  - [Codecademy](https://www.codecademy.com/profiles/damodhar918)
-  - [LinkedIn](https://www.linkedin.com/in/damodhar918)
+- 📝 Check out my [Codecademy](https://www.codecademy.com/profiles/damodhar918) for some of my Full stack web developer
+- 🔘 Check out my credentials in learning journey:
   - [Credly](https://www.credly.com/users/damodhar-jangam.7b2d1e73/badges)
   - [Google Cloud Platform | Databricks](https://google.accredible.com/profile/damodhar918/wallet)
   - [Azure AZ-204](https://learn.microsoft.com/en-us/users/damodhar918/credentials/b0a1bfb6c2587d7a)
+  - [LinkedIn](https://www.linkedin.com/in/damodhar918)
 
 
 ## 🏗️ Projects
