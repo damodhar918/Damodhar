@@ -5,10 +5,10 @@ As an experienced content writer, I have edited the readme.md file with the foll
 I'm a passionate data engineer from India! Here are some things about me:
 
 ## Index 📑
-- [## 🛠️ My Skills](##MySkills)
-- [Certifications and Credentials](##certifications-and-credentials)
-- [Projects](##projects)
-- [Contact Information](##contact-information)
+- [🛠️ My Skills](#my-skills)
+- [Certifications and Credentials](#certifications-and-credentials)
+- [Projects](#projects)
+- [Contact Information](#contact-information)
 
 ## 🛠️ My Skills
 I have expertise in the following:
