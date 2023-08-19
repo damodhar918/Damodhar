@@ -1,5 +1,3 @@
-As an experienced content writer, I have edited the readme.md file with the following information to help highlight Damodhar's skills, certifications, projects, and contact information.
-
 # Hello, I'm Damodhar! 👋
 
 I'm a passionate data engineer from India! Here are some things about me:
