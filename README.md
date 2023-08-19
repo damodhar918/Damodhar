@@ -28,7 +28,7 @@ I have accomplished the following credentials:
 - 📝 Check out my [Codecademy](https://www.codecademy.com/profiles/damodhar918) for some of my Full stack web developer
 - 🔘 Check out my credentials in learning journey:
   - [Credly](https://www.credly.com/users/damodhar-jangam.7b2d1e73/badges)
-  - [Google Cloud Platform | Databricks](https://google.accredible.com/profile/damodhar918/wallet)
+  - [Google Cloud Platform & Databricks](https://google.accredible.com/profile/damodhar918/wallet)
   - [Azure AZ-204](https://learn.microsoft.com/en-us/users/damodhar918/credentials/b0a1bfb6c2587d7a)
   - [LinkedIn](https://www.linkedin.com/in/damodhar918)
 
