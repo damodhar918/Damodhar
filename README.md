@@ -3,7 +3,7 @@
 I'm a passionate data engineer from India! Here are some things about me:
 
 ## Index Details
-- [Skills](## 🛠️ My Skills)
+- [## 🛠️ My Skills](##MySkills)
 - [Certifications and Credentials](##certifications-and-credentials)
 - [Projects](##projects)
 - [Contact Information](##contact-information)
